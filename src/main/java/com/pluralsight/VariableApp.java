@@ -11,5 +11,10 @@ public class VariableApp {
         int CLASS_YEAR;
         CLASS_YEAR = 2026;
         System.out.println("Class of" + " " + CLASS_YEAR);
+
+        // Declare a variable to store your middle initial
+        char MIDDLE_I;
+        MIDDLE_I = 'A';
+        System.out.println( "Middle Initial is" + " " + MIDDLE_I);
     }
 }
