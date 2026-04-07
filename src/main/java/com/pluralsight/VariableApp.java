@@ -6,5 +6,10 @@ public class VariableApp {
         String favColor;
         favColor = "Red";
         System.out.println("Favorite color is:" + favColor);
+
+        // Declare a variable to store the year you started this class
+        int CLASS_YEAR;
+        CLASS_YEAR = 2026;
+        System.out.println("Class of" + " " + CLASS_YEAR);
     }
 }
